@@ -1,0 +1,1 @@
+Welcome to the Timepass Snake Game – where you don't play to win, you play to waste time creatively. Built with JavaScript, fueled by procrastination, and designed to remind you of the simple joys of being unproductive.
